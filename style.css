@@ -15,6 +15,13 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+  background-image: url("https://images.pexels.com/photos/2236713/pexels-photo-2236713.jpeg?cs=srgb&dl=pexels-nicole-avagliano-1132392-2236713.jpg&fm=jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 600px;
+  height: 450px;
+  
 }
 
 .container{
