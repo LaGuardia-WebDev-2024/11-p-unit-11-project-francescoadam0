@@ -21,10 +21,10 @@ setup = function() {
   text (mySeasons [2],250,330);
   
   //Example Function Call
-drawShark(100, 70);
+drawShark(100, 120);
 
 //Example Function Call
-drawTropicalFish(4, 150);
+drawTropicalFish(4, 190);
 
    
    // fill arrays with 100 random values each 
